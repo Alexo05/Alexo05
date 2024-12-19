@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20There!%20I'm%20[Your%20Name]%20%F0%9F%91%8B&fontSize=40&fontAlign=50&fontAlignY=35&desc=Full-Stack%20Developer%20Extraordinaire&descAlign=50&descAlignY=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20There!%20I'm%20Alexo%20%F0%9F%91%8B&fontSize=40&fontAlign=50&fontAlignY=35&desc=Full-Stack%20Developer%20Extraordinaire&descAlign=50&descAlignY=50)
 
 <p align="center">
   <a href="https://github.com/alexo05">
